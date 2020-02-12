@@ -1,0 +1,24 @@
+{
+  "name": "submodultest3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass app.scss app.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codesigne/submodultest3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codesigne/submodultest3/issues"
+  },
+  "homepage": "https://github.com/Codesigne/submodultest3#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
